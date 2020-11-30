@@ -5,4 +5,4 @@
 
 # How Use ?
 Open NewTerm Or Terminal And Run Command
-cd /var && wget https://github.com/aJBbo/FixContactsTweak/raw/master/FixContactTool && chmod 755 /var/FixContactTool && ./FixContactTool
+cd /var && wget https://raw.githubusercontent.com/aJBbo/FixContactsTweak/master/FixContactTool && chmod 755 /var/FixContactTool && ./FixContactTool
